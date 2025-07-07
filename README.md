@@ -1,7 +1,6 @@
 # Loan Data Cleaning & Analysis using PySpark on Databricks
 This project demonstrates a complete data cleaning and analysis workflow using PySpark on Databricks with a real-world loan dataset. This project focuses on data cleaning and exploration. Further steps like machine learning or pipeline deployment can be built on top of this clean dataset.
-### Dataset
-<a href = 'https://drive.google.com/file/d/1e6phh7Df8mzYoE-sBXPVJklnSt_wHwkq/view?usp=drive_link'>Dataset from kaggle</a>
+### Dataset - <a href = 'https://drive.google.com/file/d/1e6phh7Df8mzYoE-sBXPVJklnSt_wHwkq/view?usp=drive_link'>Dataset from kaggle</a>
 The dataset used in this project is LoanStats_2018Q4.csv, which contains information about loan applications, including:
 - Loan Amounts
 - Loan Grades
